@@ -31,6 +31,11 @@ public class IntArrayWorkerTester
 //    int count = worker.getCount(1);
 //    System.out.println("Count should be 6 and count is " + count);
 //  }
+
+  public int getCount(int number)
+  {
+
+  }
   
   /** Method to test getTotal */
   public static void testGetTotal()
