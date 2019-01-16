@@ -52,6 +52,7 @@ public class IntArrayWorkerTester
     int total = worker.getTotalNested();
     System.out.println("Total should be 21 and is " + total);
   }
+
   
   /** Method to test getLargest */
   public static void testGetLargest()
